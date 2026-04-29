@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>龙大的博客</title>
-    <link>https://lvyanggbaabc.github.io/</link>
-    <description>Recent content on 龙大的博客</description>
+    <title>OpenAI on 龙大的博客</title>
+    <link>https://lvyanggbaabc.github.io/tags/openai/</link>
+    <description>Recent content in OpenAI on 龙大的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 29 Apr 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="https://lvyanggbaabc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lvyanggbaabc.github.io/tags/openai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>两位天才CEO的战略赌注：奥特曼在算力深渊里裸奔，马斯克在火星上挂了KPI</title>
       <link>https://lvyanggbaabc.github.io/posts/openai-spacex-gambit/</link>
@@ -61,28 +61,6 @@
 &lt;p&gt;也许这就是硅谷的生存法则：&lt;strong&gt;当你必须赌的时候，赌那个没人能短期证伪的方向。&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;参考来源：华尔街日报、路透社、华尔街见闻、腾讯新闻&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>第一篇文章</title>
-      <link>https://lvyanggbaabc.github.io/posts/hello-world/</link>
-      <pubDate>Tue, 28 Apr 2026 18:20:00 +0800</pubDate>
-      <guid>https://lvyanggbaabc.github.io/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h2&gt;
-&lt;p&gt;这是第一篇文章，博客刚刚搭建完成。&lt;/p&gt;
-&lt;p&gt;后续会在这里分享：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;技术笔记&lt;/li&gt;
-&lt;li&gt;AI 探索&lt;/li&gt;
-&lt;li&gt;生活感悟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Stay tuned!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://lvyanggbaabc.github.io/search/index.json</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lvyanggbaabc.github.io/search/index.json</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
